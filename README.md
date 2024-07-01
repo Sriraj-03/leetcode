@@ -19,6 +19,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +41,8 @@ Disclaimer:
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
