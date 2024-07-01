@@ -1,44 +1,69 @@
-class Solution {
-    public int maxArea(int[] height) {
-        int maxArea = 0;
-        int left = 0;
-        int right = height.length - 1;
+ class Solution{
+ public int maxArea(int[] height) {
 
-        while (left < right) {
-            int h = Math.min(height[left], height[right]);
-            int w = right - left;
-            maxArea = Math.max(maxArea, h * w);
+        int r=height.length-1;
+        int l=0,max=0,area;
 
-            if (height[left] < height[right]) {
-                left++;
-            } else {
-                right--;
-            }
-        }
-System.gc();
-        return maxArea;
+        while(l<r)
+         {
+             area=Math.min(height[l],height[r])*(r-l);
+              if(max<area)
+                 max=area;
 
-        
+              if(height[l]<height[r])
+                 l++;
+              else
+                 r--;
+
+              
+                 
+
+         }
+
+         return max;
     }
-}
-// import java.util.*;
+ }
 // class Solution {
 //     public int maxArea(int[] height) {
-//         int n = height.length;
-//         int start =0;
-//         int end = height.length-1;
-//         int maxarea = Integer.MIN_VALUE;
-//         while (start < end) {
-//             if(height[start]<height[end]){
-//                 maxarea = Math.max(maxarea,height[start]*(end-start));
-//                 start ++;
-//             }
-//             else {
-//                 maxarea = Math.max(maxarea,height[end]*(end-start));
-//                 end--;
+//         int maxArea = 0;
+//         int left = 0;
+//         int right = height.length - 1;
 
+//         while (left < right) {
+//             int h = Math.min(height[left], height[right]);
+//             int w = right - left;
+//             maxArea = Math.max(maxArea, h * w);
+
+//             if (height[left] < height[right]) {
+//                 left++;
+//             } else {
+//                 right--;
 //             }
+//         }
+// System.gc();
+//         return maxArea;
+
+        
 //     }
-//     return maxarea;
 // }
-// }
+// // import java.util.*;
+// // class Solution {
+// //     public int maxArea(int[] height) {
+// //         int n = height.length;
+// //         int start =0;
+// //         int end = height.length-1;
+// //         int maxarea = Integer.MIN_VALUE;
+// //         while (start < end) {
+// //             if(height[start]<height[end]){
+// //                 maxarea = Math.max(maxarea,height[start]*(end-start));
+// //                 start ++;
+// //             }
+// //             else {
+// //                 maxarea = Math.max(maxarea,height[end]*(end-start));
+// //                 end--;
+
+// //             }
+// //     }
+// //     return maxarea;
+// // }
+// // }
