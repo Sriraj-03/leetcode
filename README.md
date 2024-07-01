@@ -19,6 +19,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Sriraj-03/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -45,4 +46,8 @@ Disclaimer:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sriraj-03/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
