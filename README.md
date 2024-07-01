@@ -26,6 +26,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Disclaimer:
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -59,4 +61,8 @@ Disclaimer:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sriraj-03/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
