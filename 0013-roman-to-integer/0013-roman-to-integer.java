@@ -1,6 +1,6 @@
 class Solution {
-    public int romanToInt(String s) {
-         int[] values = new int[26];
+     public int romanToInt(String s) {
+        int[] values = new int[26];
         values['I' - 'A'] = 1;
         values['V' - 'A'] = 5;
         values['X' - 'A'] = 10;
@@ -11,8 +11,8 @@ class Solution {
 
         int total = 0; 
         int prevValue = 0; 
-
-        for (int i = s.length() - 1; i >= 0; i--) {
+        int i = s.length() - 1; 
+        while (i >= 0) {
             int currentValue = values[s.charAt(i) - 'A']; 
 
             if (currentValue < prevValue) {
@@ -22,10 +22,12 @@ class Solution {
             }
 
             prevValue = currentValue;
+            i--; 
         }
 
         return total; 
     }
+
     }
 
 
