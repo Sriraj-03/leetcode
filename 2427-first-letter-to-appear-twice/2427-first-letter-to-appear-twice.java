@@ -6,6 +6,8 @@ class Solution {
             if( has[s.charAt(i)-'a']==2)
             return s.charAt(i);
         }
+     System.gc();
         return 'z';
+           
     }
 }
