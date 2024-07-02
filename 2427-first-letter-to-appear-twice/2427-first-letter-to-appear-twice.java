@@ -3,10 +3,11 @@ class Solution {
         int [] has=new int[26];
         for(int i=0;i<s.length();i++){
             has[s.charAt(i)-'a']++;
-            if( has[s.charAt(i)-'a']==2)
-            return s.charAt(i);
+            if( has[s.charAt(i)-'a']==2){
+                 System.gc();
+            return s.charAt(i);}
         }
-     System.gc();
+    
         return 'z';
            
     }
