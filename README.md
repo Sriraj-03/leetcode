@@ -27,12 +27,14 @@ Disclaimer:
 | [0014-longest-common-prefix](https://github.com/Sriraj-03/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sriraj-03/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -97,4 +99,5 @@ Disclaimer:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sriraj-03/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
