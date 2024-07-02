@@ -14,6 +14,7 @@ Disclaimer:
 | [0039-combination-sum](https://github.com/Sriraj-03/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sriraj-03/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sriraj-03/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sriraj-03/leetcode/tree/master/0047-permutations-ii) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ Disclaimer:
 | [0039-combination-sum](https://github.com/Sriraj-03/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sriraj-03/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sriraj-03/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sriraj-03/leetcode/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
