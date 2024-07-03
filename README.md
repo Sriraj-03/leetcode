@@ -17,6 +17,7 @@ Disclaimer:
 | [0047-permutations-ii](https://github.com/Sriraj-03/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sriraj-03/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sriraj-03/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -150,9 +151,11 @@ Disclaimer:
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
