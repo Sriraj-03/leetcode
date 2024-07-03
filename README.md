@@ -15,6 +15,7 @@ Disclaimer:
 | [0040-combination-sum-ii](https://github.com/Sriraj-03/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sriraj-03/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sriraj-03/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sriraj-03/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -65,6 +66,7 @@ Disclaimer:
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sriraj-03/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sriraj-03/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -145,4 +147,8 @@ Disclaimer:
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
