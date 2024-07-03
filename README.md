@@ -15,6 +15,7 @@ Disclaimer:
 | [0040-combination-sum-ii](https://github.com/Sriraj-03/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sriraj-03/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sriraj-03/leetcode/tree/master/0047-permutations-ii) |
+| [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@ Disclaimer:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sriraj-03/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0022-generate-parentheses) |
+| [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Sriraj-03/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -132,4 +134,8 @@ Disclaimer:
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
