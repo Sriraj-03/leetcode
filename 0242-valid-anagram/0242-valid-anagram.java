@@ -9,8 +9,8 @@ class Solution {
                 has1[s.charAt(i)-'a']++;
                 has1[t.charAt(i)-'a']--;
             }
-        for(int i=0;i<26;i++){
-            if(has1[i]!=0)
+        for(int i=0;i<s.length();i++){
+            if(has1[s.charAt(i)-'a']!=0)
             return false;
         }
         return true;
