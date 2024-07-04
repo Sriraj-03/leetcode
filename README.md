@@ -23,6 +23,7 @@ Disclaimer:
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sriraj-03/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -101,6 +102,7 @@ Disclaimer:
 | [0013-roman-to-integer](https://github.com/Sriraj-03/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sriraj-03/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Sriraj-03/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -183,4 +185,8 @@ Disclaimer:
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
