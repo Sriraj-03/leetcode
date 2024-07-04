@@ -60,6 +60,7 @@ Disclaimer:
 | [0022-generate-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sriraj-03/leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Disclaimer:
 | [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sriraj-03/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -169,4 +171,16 @@ Disclaimer:
 | [0054-spiral-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
