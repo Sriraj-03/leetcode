@@ -185,6 +185,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Sriraj-03/leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Sriraj-03/leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -201,8 +203,10 @@ Disclaimer:
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
+| [0623-add-one-row-to-tree](https://github.com/Sriraj-03/leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
+| [0623-add-one-row-to-tree](https://github.com/Sriraj-03/leetcode/tree/master/0623-add-one-row-to-tree) |
 <!---LeetCode Topics End-->
