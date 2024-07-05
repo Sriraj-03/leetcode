@@ -30,6 +30,7 @@ Disclaimer:
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sriraj-03/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
