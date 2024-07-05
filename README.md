@@ -26,6 +26,7 @@ Disclaimer:
 | [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sriraj-03/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
+| [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
@@ -177,6 +178,7 @@ Disclaimer:
 | ------- |
 | [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0054-spiral-matrix) |
+| [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Tree
@@ -195,4 +197,12 @@ Disclaimer:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
