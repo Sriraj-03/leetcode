@@ -26,6 +26,7 @@ Disclaimer:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sriraj-03/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sriraj-03/leetcode/tree/master/0136-single-number) |
+| [0275-h-index-ii](https://github.com/Sriraj-03/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -81,6 +82,7 @@ Disclaimer:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sriraj-03/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sriraj-03/leetcode/tree/master/0035-search-insert-position) |
+| [0275-h-index-ii](https://github.com/Sriraj-03/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sriraj-03/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
 ## Math
