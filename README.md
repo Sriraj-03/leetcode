@@ -81,6 +81,7 @@ Disclaimer:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sriraj-03/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sriraj-03/leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Sriraj-03/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
 ## Math
 |  |
@@ -219,4 +220,8 @@ Disclaimer:
 | ------- |
 | [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 | [0623-add-one-row-to-tree](https://github.com/Sriraj-03/leetcode/tree/master/0623-add-one-row-to-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sriraj-03/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
