@@ -84,6 +84,7 @@ Disclaimer:
 | [0035-search-insert-position](https://github.com/Sriraj-03/leetcode/tree/master/0035-search-insert-position) |
 | [0275-h-index-ii](https://github.com/Sriraj-03/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sriraj-03/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sriraj-03/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
 ## Math
 |  |
@@ -226,4 +227,5 @@ Disclaimer:
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sriraj-03/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sriraj-03/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
