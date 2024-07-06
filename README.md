@@ -45,6 +45,7 @@ Disclaimer:
 | [0125-valid-palindrome](https://github.com/Sriraj-03/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Sriraj-03/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sriraj-03/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -101,6 +102,7 @@ Disclaimer:
 | [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Sriraj-03/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Sriraj-03/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sriraj-03/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2645-pass-the-pillow](https://github.com/Sriraj-03/leetcode/tree/master/2645-pass-the-pillow) |
@@ -127,6 +129,7 @@ Disclaimer:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sriraj-03/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Sriraj-03/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Sriraj-03/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
