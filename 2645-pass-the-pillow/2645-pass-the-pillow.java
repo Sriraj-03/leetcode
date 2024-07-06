@@ -10,7 +10,7 @@ class Solution {
         int cnt=1,dem=n;
         while(time>0){
                 if(cnt==n)
-                cnt=cnt*-1;
+                cnt=-n;
                 if(cnt==-1)
                 cnt=1;
                 cnt++;
