@@ -11,6 +11,7 @@ Disclaimer:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sriraj-03/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sriraj-03/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sriraj-03/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sriraj-03/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sriraj-03/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sriraj-03/leetcode/tree/master/0046-permutations) |
@@ -79,6 +80,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sriraj-03/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sriraj-03/leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
 ## Math
 |  |
