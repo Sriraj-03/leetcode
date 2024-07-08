@@ -36,6 +36,7 @@ Disclaimer:
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sriraj-03/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Disclaimer:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Disclaimer:
 | [0202-happy-number](https://github.com/Sriraj-03/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Sriraj-03/leetcode/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
@@ -151,6 +154,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +200,7 @@ Disclaimer:
 | [0054-spiral-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Sriraj-03/leetcode/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
