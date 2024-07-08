@@ -29,6 +29,7 @@ Disclaimer:
 | [0189-rotate-array](https://github.com/Sriraj-03/leetcode/tree/master/0189-rotate-array) |
 | [0275-h-index-ii](https://github.com/Sriraj-03/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sriraj-03/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -48,6 +49,7 @@ Disclaimer:
 | [0189-rotate-array](https://github.com/Sriraj-03/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sriraj-03/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Disclaimer:
 | [0035-search-insert-position](https://github.com/Sriraj-03/leetcode/tree/master/0035-search-insert-position) |
 | [0275-h-index-ii](https://github.com/Sriraj-03/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sriraj-03/leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sriraj-03/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sriraj-03/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
@@ -115,6 +118,7 @@ Disclaimer:
 | ------- |
 | [0136-single-number](https://github.com/Sriraj-03/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Stack
 |  |
