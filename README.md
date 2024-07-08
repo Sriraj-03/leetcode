@@ -50,6 +50,7 @@ Disclaimer:
 | [0202-happy-number](https://github.com/Sriraj-03/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Disclaimer:
 | [0205-isomorphic-strings](https://github.com/Sriraj-03/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sriraj-03/leetcode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
