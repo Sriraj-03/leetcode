@@ -70,6 +70,7 @@ Disclaimer:
 | [0171-excel-sheet-column-number](https://github.com/Sriraj-03/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Sriraj-03/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sriraj-03/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
@@ -140,6 +141,7 @@ Disclaimer:
 | [0202-happy-number](https://github.com/Sriraj-03/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sriraj-03/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sriraj-03/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
