@@ -30,6 +30,7 @@ Disclaimer:
 | [0275-h-index-ii](https://github.com/Sriraj-03/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Sriraj-03/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sriraj-03/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -83,6 +84,7 @@ Disclaimer:
 | [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sriraj-03/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0416-partition-equal-subset-sum](https://github.com/Sriraj-03/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Recursion
 |  |
 | ------- |
