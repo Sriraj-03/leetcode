@@ -1,23 +1,35 @@
 class Solution {
     public double averageWaitingTime(int[][] customers) {
-     
-         int n = customers.length;
-        int chefTime = 0;
-        int totalWaitingTime = 0;
-
-        for (int i = 0; i < n; i++) {
-            int arrivalTime = customers[i][0];
-            int preparationTime = customers[i][1];
-
-            if (arrivalTime > chefTime) {
-                chefTime = arrivalTime;
+        int currentTime = 0;
+        long totalwaitTime = 0;  // Use long to avoid overflow
+        
+        for (int[] customer : customers) {
+            int arrival = customer[0];
+            int time = customer[1];
+            
+            if (currentTime < arrival) {
+                currentTime = arrival;
             }
-
-            chefTime += preparationTime;
-
-            totalWaitingTime += chefTime - arrivalTime;
+            
+            int waitTime = currentTime + time - arrival;
+            totalwaitTime += waitTime;
+            
+            currentTime += time;
         }
-
-        return (double) totalWaitingTime / n;
+        
+        return (double) totalwaitTime / customers.length;
     }
 }
+
+// class Solution {
+//     public double averageWaitingTime(int[][] customers) {
+//         double wait = 0;
+//         int t = -1;
+//         for(int[] a : customers) {
+//             t = (t<a[0])?a[0]:t;
+//             t += a[1];
+//             wait += t-a[0];
+//         }
+//         return wait/customers.length;
+//     }
+// }
