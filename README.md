@@ -38,6 +38,7 @@ Disclaimer:
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sriraj-03/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1803-average-waiting-time](https://github.com/Sriraj-03/leetcode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sriraj-03/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -155,6 +156,7 @@ Disclaimer:
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sriraj-03/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
@@ -219,6 +221,7 @@ Disclaimer:
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/Sriraj-03/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1803-average-waiting-time](https://github.com/Sriraj-03/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Sriraj-03/leetcode/tree/master/2645-pass-the-pillow) |
@@ -230,6 +233,7 @@ Disclaimer:
 | [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Sriraj-03/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Tree
 |  |
