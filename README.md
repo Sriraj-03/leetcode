@@ -39,6 +39,7 @@ Disclaimer:
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1803-average-waiting-time](https://github.com/Sriraj-03/leetcode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sriraj-03/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -215,6 +216,7 @@ Disclaimer:
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/Sriraj-03/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
+| [1803-average-waiting-time](https://github.com/Sriraj-03/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Sriraj-03/leetcode/tree/master/2645-pass-the-pillow) |
 ## Matrix
