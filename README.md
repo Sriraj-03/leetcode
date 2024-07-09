@@ -81,6 +81,7 @@ Disclaimer:
 | [0345-reverse-vowels-of-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Sriraj-03/leetcode/tree/master/0394-decode-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sriraj-03/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
