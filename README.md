@@ -45,6 +45,7 @@ Disclaimer:
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/Sriraj-03/leetcode/tree/master/1983-maximum-population-year) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sriraj-03/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Disclaimer:
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## String
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Disclaimer:
 | [0374-guess-number-higher-or-lower](https://github.com/Sriraj-03/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sriraj-03/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +223,7 @@ Disclaimer:
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sriraj-03/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Simulation
 |  |
 | ------- |
