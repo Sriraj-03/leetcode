@@ -24,6 +24,7 @@ Disclaimer:
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sriraj-03/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sriraj-03/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sriraj-03/leetcode/tree/master/0189-rotate-array) |
@@ -94,6 +95,7 @@ Disclaimer:
 | [0022-generate-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sriraj-03/leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/Sriraj-03/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sriraj-03/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -144,6 +146,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/Sriraj-03/leetcode/tree/master/0394-decode-string) |
 ## Trie
 |  |
@@ -240,6 +243,7 @@ Disclaimer:
 | ------- |
 | [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Sriraj-03/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
@@ -294,4 +298,8 @@ Disclaimer:
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sriraj-03/leetcode/tree/master/0214-shortest-palindrome) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
