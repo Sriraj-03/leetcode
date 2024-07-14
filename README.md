@@ -53,6 +53,7 @@ Disclaimer:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sriraj-03/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sriraj-03/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sriraj-03/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -69,6 +70,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sriraj-03/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sriraj-03/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Sriraj-03/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sriraj-03/leetcode/tree/master/0013-roman-to-integer) |
@@ -98,6 +100,7 @@ Disclaimer:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sriraj-03/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
