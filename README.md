@@ -95,6 +95,7 @@ Disclaimer:
 | [0516-longest-palindromic-subsequence](https://github.com/Sriraj-03/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0837-most-common-word](https://github.com/Sriraj-03/leetcode/tree/master/0837-most-common-word) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sriraj-03/leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sriraj-03/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sriraj-03/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
@@ -193,6 +194,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sriraj-03/leetcode/tree/master/0011-container-with-most-water) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sriraj-03/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Queue
 |  |
 | ------- |
