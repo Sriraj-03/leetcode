@@ -30,6 +30,7 @@ Disclaimer:
 | [0136-single-number](https://github.com/Sriraj-03/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sriraj-03/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sriraj-03/leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Sriraj-03/leetcode/tree/master/0217-contains-duplicate) |
 | [0275-h-index-ii](https://github.com/Sriraj-03/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -176,6 +177,7 @@ Disclaimer:
 | [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Sriraj-03/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sriraj-03/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Sriraj-03/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sriraj-03/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -240,6 +242,7 @@ Disclaimer:
 | [0049-group-anagrams](https://github.com/Sriraj-03/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sriraj-03/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Sriraj-03/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sriraj-03/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
