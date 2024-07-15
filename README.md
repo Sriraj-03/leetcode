@@ -35,6 +35,7 @@ Disclaimer:
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sriraj-03/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Sriraj-03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Sriraj-03/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Sriraj-03/leetcode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Sriraj-03/leetcode/tree/master/0498-diagonal-traverse) |
@@ -65,6 +66,7 @@ Disclaimer:
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sriraj-03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sriraj-03/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## String
@@ -128,6 +130,7 @@ Disclaimer:
 | [0278-first-bad-version](https://github.com/Sriraj-03/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sriraj-03/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Sriraj-03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sriraj-03/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sriraj-03/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
@@ -180,6 +183,7 @@ Disclaimer:
 | [0217-contains-duplicate](https://github.com/Sriraj-03/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sriraj-03/leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Sriraj-03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Sriraj-03/leetcode/tree/master/0837-most-common-word) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -244,6 +248,7 @@ Disclaimer:
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sriraj-03/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sriraj-03/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sriraj-03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sriraj-03/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
