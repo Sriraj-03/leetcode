@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
         HashSet<Integer> has=new HashSet<>();
@@ -11,6 +12,7 @@ class Solution {
         int []arr=new int[dup.size()];
         for(int ele:dup)
         arr[i++]=ele;
+        // dup.toArray(arr);
 
 
         return arr;
