@@ -97,6 +97,7 @@ Disclaimer:
 | [0394-decode-string](https://github.com/Sriraj-03/leetcode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sriraj-03/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0837-most-common-word](https://github.com/Sriraj-03/leetcode/tree/master/0837-most-common-word) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sriraj-03/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sriraj-03/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sriraj-03/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sriraj-03/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -164,6 +165,7 @@ Disclaimer:
 | [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/Sriraj-03/leetcode/tree/master/0394-decode-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sriraj-03/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
