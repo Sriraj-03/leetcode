@@ -47,6 +47,7 @@ Disclaimer:
 | [0837-most-common-word](https://github.com/Sriraj-03/leetcode/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sriraj-03/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1803-average-waiting-time](https://github.com/Sriraj-03/leetcode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sriraj-03/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -283,6 +284,7 @@ Disclaimer:
 | [0498-diagonal-traverse](https://github.com/Sriraj-03/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sriraj-03/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Tree
 |  |
