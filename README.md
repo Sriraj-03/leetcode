@@ -11,6 +11,7 @@ Disclaimer:
 | ------- |
 | [0001-two-sum](https://github.com/Sriraj-03/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sriraj-03/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sriraj-03/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sriraj-03/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sriraj-03/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sriraj-03/leetcode/tree/master/0039-combination-sum) |
@@ -58,6 +59,7 @@ Disclaimer:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sriraj-03/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sriraj-03/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sriraj-03/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sriraj-03/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Sriraj-03/leetcode/tree/master/0125-valid-palindrome) |
@@ -248,6 +250,7 @@ Disclaimer:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sriraj-03/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sriraj-03/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sriraj-03/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
