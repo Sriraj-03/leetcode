@@ -13,8 +13,11 @@ public class Solution {
                         while (lo < hi && nums[lo] == nums[lo+1]) lo++;
                         while (lo < hi && nums[hi] == nums[hi-1]) hi--;
                         lo++; hi--;
-                    } else if (nums[lo] + nums[hi] < sum) lo++;
-                    else hi--;
+                    } 
+                    else if (nums[lo] + nums[hi] < sum) 
+                    lo++;
+                    else 
+                    hi--;
                }
             }
         }
