@@ -67,6 +67,7 @@ Disclaimer:
 | [0165-compare-version-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Sriraj-03/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sriraj-03/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Sriraj-03/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sriraj-03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -124,6 +125,7 @@ Disclaimer:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Sriraj-03/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sriraj-03/leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
@@ -168,6 +170,7 @@ Disclaimer:
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/Sriraj-03/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sriraj-03/leetcode/tree/master/0394-decode-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sriraj-03/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
@@ -234,6 +237,7 @@ Disclaimer:
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sriraj-03/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Sriraj-03/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/Sriraj-03/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sriraj-03/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
