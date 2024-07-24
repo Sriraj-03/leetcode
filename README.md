@@ -16,6 +16,7 @@ Disclaimer:
 | [0035-search-insert-position](https://github.com/Sriraj-03/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sriraj-03/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sriraj-03/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Sriraj-03/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sriraj-03/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sriraj-03/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
@@ -61,6 +62,7 @@ Disclaimer:
 | [0005-longest-palindromic-substring](https://github.com/Sriraj-03/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sriraj-03/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sriraj-03/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Sriraj-03/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sriraj-03/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Sriraj-03/leetcode/tree/master/0125-valid-palindrome) |
@@ -113,6 +115,7 @@ Disclaimer:
 | [0005-longest-palindromic-substring](https://github.com/Sriraj-03/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sriraj-03/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sriraj-03/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
@@ -169,6 +172,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sriraj-03/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sriraj-03/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Sriraj-03/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sriraj-03/leetcode/tree/master/0394-decode-string) |
@@ -346,6 +350,7 @@ Disclaimer:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sriraj-03/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 ## Quickselect
 |  |
