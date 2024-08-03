@@ -356,4 +356,8 @@ Disclaimer:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sriraj-03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sriraj-03/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
