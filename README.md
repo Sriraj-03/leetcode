@@ -47,6 +47,7 @@ Disclaimer:
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Sriraj-03/leetcode/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
+| [1002-maximum-width-ramp](https://github.com/Sriraj-03/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sriraj-03/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -176,6 +177,7 @@ Disclaimer:
 | [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Sriraj-03/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sriraj-03/leetcode/tree/master/0394-decode-string) |
+| [1002-maximum-width-ramp](https://github.com/Sriraj-03/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sriraj-03/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -352,6 +354,7 @@ Disclaimer:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sriraj-03/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
+| [1002-maximum-width-ramp](https://github.com/Sriraj-03/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Quickselect
 |  |
 | ------- |
