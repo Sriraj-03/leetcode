@@ -55,6 +55,7 @@ Disclaimer:
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sriraj-03/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/Sriraj-03/leetcode/tree/master/1983-maximum-population-year) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sriraj-03/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sriraj-03/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Two Pointers
@@ -202,6 +203,7 @@ Disclaimer:
 | [0387-first-unique-character-in-a-string](https://github.com/Sriraj-03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Sriraj-03/leetcode/tree/master/0837-most-common-word) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sriraj-03/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sriraj-03/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
@@ -255,6 +257,7 @@ Disclaimer:
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sriraj-03/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sriraj-03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sriraj-03/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Merge Sort
 |  |
 | ------- |
