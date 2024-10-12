@@ -58,6 +58,7 @@ Disclaimer:
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sriraj-03/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sriraj-03/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Disclaimer:
 | [0349-intersection-of-two-arrays](https://github.com/Sriraj-03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sriraj-03/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Disclaimer:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sriraj-03/leetcode/tree/master/0011-container-with-most-water) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sriraj-03/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Queue
 |  |
 | ------- |
@@ -258,6 +261,7 @@ Disclaimer:
 | [0023-merge-k-sorted-lists](https://github.com/Sriraj-03/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sriraj-03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sriraj-03/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -276,6 +280,7 @@ Disclaimer:
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sriraj-03/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
 |  |
 | ------- |
@@ -340,6 +345,7 @@ Disclaimer:
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/Sriraj-03/leetcode/tree/master/1983-maximum-population-year) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Rolling Hash
 |  |
 | ------- |
