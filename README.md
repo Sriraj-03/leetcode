@@ -60,6 +60,7 @@ Disclaimer:
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sriraj-03/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Sriraj-03/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Disclaimer:
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sriraj-03/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sriraj-03/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Sriraj-03/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Queue
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Disclaimer:
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sriraj-03/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sriraj-03/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Sriraj-03/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
