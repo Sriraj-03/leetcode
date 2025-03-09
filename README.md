@@ -130,6 +130,7 @@ Disclaimer:
 | [0300-longest-increasing-subsequence](https://github.com/Sriraj-03/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sriraj-03/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sriraj-03/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0923-super-egg-drop](https://github.com/Sriraj-03/leetcode/tree/master/0923-super-egg-drop) |
 ## Recursion
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Disclaimer:
 | [0374-guess-number-higher-or-lower](https://github.com/Sriraj-03/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sriraj-03/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sriraj-03/leetcode/tree/master/0792-binary-search) |
+| [0923-super-egg-drop](https://github.com/Sriraj-03/leetcode/tree/master/0923-super-egg-drop) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Math
 |  |
@@ -167,6 +169,7 @@ Disclaimer:
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Sriraj-03/leetcode/tree/master/0670-maximum-swap) |
+| [0923-super-egg-drop](https://github.com/Sriraj-03/leetcode/tree/master/0923-super-egg-drop) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sriraj-03/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Sriraj-03/leetcode/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
