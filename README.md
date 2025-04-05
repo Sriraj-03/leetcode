@@ -68,6 +68,7 @@ Disclaimer:
 | [0005-longest-palindromic-substring](https://github.com/Sriraj-03/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sriraj-03/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sriraj-03/leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sriraj-03/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Sriraj-03/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sriraj-03/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sriraj-03/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -263,6 +264,7 @@ Disclaimer:
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sriraj-03/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Sriraj-03/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Sriraj-03/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/Sriraj-03/leetcode/tree/master/0234-palindrome-linked-list) |
