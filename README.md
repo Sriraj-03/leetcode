@@ -108,6 +108,7 @@ Disclaimer:
 | [0049-group-anagrams](https://github.com/Sriraj-03/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Sriraj-03/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Sriraj-03/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Sriraj-03/leetcode/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Sriraj-03/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Sriraj-03/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Sriraj-03/leetcode/tree/master/0165-compare-version-numbers) |
@@ -219,6 +220,7 @@ Disclaimer:
 | [0013-roman-to-integer](https://github.com/Sriraj-03/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sriraj-03/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Sriraj-03/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Sriraj-03/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sriraj-03/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sriraj-03/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -239,6 +241,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sriraj-03/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sriraj-03/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sriraj-03/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sriraj-03/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Memoization
