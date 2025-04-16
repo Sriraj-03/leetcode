@@ -31,6 +31,7 @@ Disclaimer:
 | [0128-longest-consecutive-sequence](https://github.com/Sriraj-03/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sriraj-03/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sriraj-03/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Sriraj-03/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sriraj-03/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sriraj-03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sriraj-03/leetcode/tree/master/0217-contains-duplicate) |
@@ -129,6 +130,7 @@ Disclaimer:
 | [0072-edit-distance](https://github.com/Sriraj-03/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Sriraj-03/leetcode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0198-house-robber](https://github.com/Sriraj-03/leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Sriraj-03/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sriraj-03/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sriraj-03/leetcode/tree/master/0516-longest-palindromic-subsequence) |
