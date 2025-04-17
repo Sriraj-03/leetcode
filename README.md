@@ -63,6 +63,7 @@ Disclaimer:
 | [1983-maximum-population-year](https://github.com/Sriraj-03/leetcode/tree/master/1983-maximum-population-year) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sriraj-03/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sriraj-03/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sriraj-03/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sriraj-03/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Sriraj-03/leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sriraj-03/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
