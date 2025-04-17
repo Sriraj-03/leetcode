@@ -152,6 +152,7 @@ Disclaimer:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sriraj-03/leetcode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/Sriraj-03/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sriraj-03/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sriraj-03/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sriraj-03/leetcode/tree/master/0394-decode-string) |
@@ -180,6 +181,7 @@ Disclaimer:
 | [0012-integer-to-roman](https://github.com/Sriraj-03/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sriraj-03/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sriraj-03/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sriraj-03/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sriraj-03/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sriraj-03/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sriraj-03/leetcode/tree/master/0096-unique-binary-search-trees) |
