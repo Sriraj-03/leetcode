@@ -16,6 +16,16 @@ class Solution {
 	        }
 
 	        return dp[n];
+	    //  int[] dp=new int[n+1];
+	    // dp[0]=1;
+	    // for(int i=1;i<=n;i++){
+	    //     for(int j:steps){
+	    //         if(i-j>=0){
+	    //             dp[i]=dp[i]+dp[i-j];
+	    //         }
+	    //     }
+	    // }
+	    // return dp[n];
 	    }  
     }
 // class Solution {
