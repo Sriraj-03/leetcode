@@ -55,6 +55,7 @@ Disclaimer:
 | [0837-most-common-word](https://github.com/Sriraj-03/leetcode/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/Sriraj-03/leetcode/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/Sriraj-03/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1293-three-consecutive-odds](https://github.com/Sriraj-03/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sriraj-03/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sriraj-03/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sriraj-03/leetcode/tree/master/1677-matrix-diagonal-sum) |
